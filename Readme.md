@@ -8,4 +8,4 @@
 
 4. UIView Container 설정
 
-5. UIView 에 Label 추가하여 ScrollView 확인하기
+5. UIView 에 Label 추가하여 ScrollView 확인하기.
